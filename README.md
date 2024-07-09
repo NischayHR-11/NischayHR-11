@@ -1,7 +1,7 @@
 ﻿<h1 align="center"> NISCHAY H R </h1>
  
 # 💫 About Me:
-🔭 I’m currently working on Web Development.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>🤝 I’m looking for help with Backend - FrameWork.<br><br>🌱 I’m currently learning JavaScript.<br><br>💬 Ask me about Programming.<br><br>⚡ Fun fact :  I love exploring new restaurants for different styles of food!<br><br>
+🔭 I’m currently working on FullStack Web Development.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>🤝 I’m looking for help with Backend - FrameWork.<br><br>🌱 I’m currently learning JavaScript.<br><br>💬 Ask me about Programming.<br><br>⚡ Fun fact :  I love exploring new restaurants for different styles of food!<br><br>
 
 
 ## 🌐 Socials:
