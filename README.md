@@ -1,4 +1,5 @@
-﻿<h1 align="center"> NISCHAY H R </h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+ <h1 align="center"> NISCHAY H R </h1>
  
 # 💫 About Me:
 🔭 I’m currently working on FullStack Web Development.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>🤝 I’m looking for help with Backend - FrameWork.<br><br>🌱 I’m currently learning MongoDB .<br><br>💬 Ask me about Programming.<br><br>⚡ Fun fact : I love exploring new restaurants  for different styles of food!<br><br>
