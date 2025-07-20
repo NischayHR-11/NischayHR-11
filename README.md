@@ -41,6 +41,14 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23F7DF1E.svg?style=for-the-badge&logo=githubactions&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Load Balancing](https://img.shields.io/badge/Load%20Balancing-%234CAF50.svg?style=for-the-badge&logo=load-balancer&logoColor=white)
+![Caching](https://img.shields.io/badge/Caching-%23FFA500.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Database Sharding](https://img.shields.io/badge/Database%20Sharding-%23FF69B4.svg?style=for-the-badge&logo=database&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-%23D2691E.svg?style=for-the-badge&logo=speedtest&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-%23007ACC.svg?style=for-the-badge&logo=microgen&logoColor=white)
+![Monolith](https://img.shields.io/badge/Monolith-%231E3A8A.svg?style=for-the-badge&logo=structure&logoColor=white)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-%231E3A8A.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![CAP Theorem](https://img.shields.io/badge/CAP%20Theorem-%23FF6347.svg?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 # 📊 GitHub Stats:
