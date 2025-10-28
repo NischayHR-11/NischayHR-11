@@ -2,7 +2,7 @@
  <h1 align="center"> NISCHAY H R </h1>
  
 # 💫 About Me:
-🔭 I’m currently working on DevOps .<br><br>👯 I’m looking to collaborate and Contribute on Open Source Projects and Internships .<br><br>🌱 I’m currently Exploring  With Tec Tools Like Socket.io .<br><br>💬 Ask me about Programming .<br><br>⚡ Fun fact : I love exploring new restaurants  for different styles of food !<br><br>
+🔭 I’m currently working on SpringCloud & SpringBoot .<br><br>👯 I’m looking to collaborate and Contribute on Open Source Projects and Internships .<br><br>🌱 I’m currently Exploring  With Tec Tools Like Microservices , Kafka , SNQ & SNS .<br><br>💬 Ask me about Programming .<br><br>⚡ Fun fact : I love exploring new restaurants  for different styles of food !<br><br>
 
 
 ## 🌐 Socials:
